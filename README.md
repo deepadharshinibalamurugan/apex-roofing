@@ -2,8 +2,7 @@
 
 A high-converting, premium single-page responsive landing page built from scratch for local contractor businesses. Designed under contract specifications for digital marketing agencies.
 
-🚀 **Live Preview:** [View Live Site](https://deepadharshinibalamurugan.github.io/apex-roofing/) *(Note: Change this to your actual live link once deployed)*
-
+🚀 **Live Preview:** [View Live Site](https://deepadharshinibalamurugan.github.io/apex-roofing/) 
 ---
 
 ## ✨ Features & Project Architecture
